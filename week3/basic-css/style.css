@@ -1,0 +1,16 @@
+#name {
+    color: red;
+    text-decoration: line-through;
+}
+
+.blue {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+
+.yolo {
+    text-decoration: underline;
+}

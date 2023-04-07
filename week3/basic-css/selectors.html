@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      div > p {
+        color: red;
+      }
+
+      div h1 + h1 {
+        color: blue;
+      }
+
+      div a {
+        color: green;
+      }
+
+      .class1,
+      .class2 {
+        color: brown;
+      }
+
+      #copyright {
+        text-decoration: line-through;
+        color: coral;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- greater then -->
+    <div>
+      <p>Hi there.</p>
+      <span>Hello buddy</span>
+    </div>
+
+    <!-- plus sign -->
+    <div>
+      <h1>Im First</h1>
+      <h1>Im Second</h1>
+    </div>
+
+    <!-- child -->
+    <div>
+      <a href="http://google.com" target="_blank">Link Here</a>
+      <a href="http://google.com" target="_blank">Link Here</a>
+      <a href="http://google.com" target="_blank">Link Here</a>
+    </div>
+
+    <!-- classes -->
+    <div>
+      <p class="class1">Class 1</p>
+      <p class="class2">Class 1</p>
+    </div>
+
+    <!-- ID (unique). also takes precedence over classes -->
+    <footer>
+      <p id="copyright">Copyright 2023</p>
+    </footer>
+  </body>
+</html>

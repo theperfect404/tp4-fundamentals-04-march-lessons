@@ -1,0 +1,117 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: sans-serif;
+  background-color: #1b1b1b;
+}
+section {
+  max-width: 900px;
+  min-height: 100vh;
+  margin: 0 auto;
+  background-color: #fff;
+  padding: 1rem;
+}
+.profile-name,
+.follower-detail,
+.active {
+  color: #1f1f1f;
+  font-weight: 600;
+}
+.username,
+.profile-skill,
+.breadcrumb {
+  color: #4d4d4d;
+}
+.username,
+.profile-skill,
+.card-description {
+  font-size: 0.9rem;
+  margin-block: 7px;
+}
+header {
+  position: sticky;
+  position: -webkit-sticky; /* Safari */
+  top: 0;
+  z-index: 999;
+  padding-block: 1rem;
+  background-color: #fff;
+}
+.profile {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 3rem;
+  padding-block: 1rem;
+}
+.profile-img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+.follower-detail {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin-top: 0.5rem;
+}
+.breadcrumb {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  margin-block: 1rem;
+  border-top: 1px solid #00000036;
+  padding-top: 1rem;
+}
+.breadcrumb p {
+  cursor: pointer;
+}
+.post-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+.post {
+  width: 200px;
+  height: 300px;
+  position: relative;
+}
+.post-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: brightness(70%);
+}
+.post-description {
+  position: absolute;
+  bottom: 0;
+  margin: 5px 5px 10px 5px;
+  color: #e2e2e2;
+}
+span {
+  background-color: #636363;
+  border-radius: 3px;
+  padding: 3px 13px;
+  margin-top: 0.4rem;
+  display: inline-block; /* inline element doesn't work on margin, need to change them display inline-block */
+  font-size: 0.8rem;
+}
+@media (max-width: 800px) {
+  .profile {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1rem;
+    padding-block: 0;
+  }
+  .follower-detail {
+    gap: 0.7rem;
+  }
+}

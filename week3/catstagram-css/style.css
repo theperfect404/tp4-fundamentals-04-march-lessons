@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+#lily,
+#momo,
+#kitty {
+    background-color: #fff;
+    width: 300px;
+    padding-bottom: 20px;
+    box-shadow: 0 0 10px #000;
+    margin: 10px auto;
+}
+
+.behavior li {
+    color: salmon;
+    list-style-type: upper-roman;
+}
+
+.button {
+    padding: 10px;
+    background-color: #2e8b57;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 25px;
+    width: 50%;
+}
+
+.button:hover {
+    background-color: #228b22;
+    cursor: pointer;
+}
