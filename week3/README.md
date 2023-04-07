@@ -10,7 +10,7 @@ Private
 
 ### Homework
 
-Catstagram Styled (https://kaiz.me/catstagram-css/)
+Catstagram Styled (https://theperfect404.github.io/tp4-fundamentals-04-march-lessons/week3/catstagram-css)
 
 Your task is to style last week's Catstagram. The code should:
 

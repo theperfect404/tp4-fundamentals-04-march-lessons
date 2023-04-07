@@ -15,7 +15,7 @@ Private
 
 ### Homework
 
-User Profile (https://kaiz.me/css-user-profile/)
+User Profile (https://theperfect404.github.io/tp4-fundamentals-04-march-lessons/week5/css-user-profile)
 
 Your task is to create the copy of the User Profile.
 

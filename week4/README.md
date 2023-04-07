@@ -11,7 +11,7 @@ Private
 
 ### Homework
 
-Flexbox Product Grid (https://kaiz.me/flexbox-product-grid/)
+Flexbox Product Grid (https://theperfect404.github.io/tp4-fundamentals-04-march-lessons/week4/flexbox-product-grid)
 
 Your task is to create the copy of the Flexbox Product Grid. The code:
 

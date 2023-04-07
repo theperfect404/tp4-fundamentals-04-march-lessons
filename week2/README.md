@@ -4,7 +4,7 @@ Private
 
 ### Homework
 
-Catstagram (https://kaiz.me/catstagram/)
+Catstagram (https://theperfect404.github.io/tp4-fundamentals-04-march-lessons/week2/catstagram)
 
 Your task is to create the copy of the catstagram. The code:
 
