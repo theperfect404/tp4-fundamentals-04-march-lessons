@@ -1,6 +1,11 @@
-Slides - Private
+### Slides
 
-Homework - Catstagram (https://kaiz.me/catstagram/)
+Private
+
+### Homework
+
+Catstagram (https://kaiz.me/catstagram/)
+
 Your task is to create the copy of the catstagram. The code:
 
 - Must have at least one heading tag
@@ -9,8 +14,9 @@ Your task is to create the copy of the catstagram. The code:
 - Must have anchor tags
 - Optionally, you may add some styles
 
-References
-heading - https://www.w3schools.com/html/html_headings.asp
-img - https://www.w3schools.com/tags/tag_img.asp
-lists - https://www.w3schools.com/html/html_lists.asp
-anchor - https://www.w3schools.com/html/html_links.asp
+### References
+
+- Heading - https://www.w3schools.com/html/html_headings.asp
+- IMG - https://www.w3schools.com/tags/tag_img.asp
+- Lists - https://www.w3schools.com/html/html_lists.asp
+- Anchor - https://www.w3schools.com/html/html_links.asp
