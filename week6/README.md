@@ -5,10 +5,10 @@ Thanks for joining. We're looking forward to our next session. Here's a brief ov
 
 Please bookmark this links
 
-- [Pseudo Selectors | A 20-Minute Adventure](Pseudo-Selectors/)
-- [CSS Animations | A 20-Minute Adventure](CSS-Animations/)
-- [Before & After Pseudo Selectors | TP404 Video](https://fb.watch/jLMJv41GQ9)
-- [CSS Animations | TP404 Video](https://fb.watch/jLMMQrtj_B/)
+- [Pseudo Selectors (A 20-Minute Adventure)](Pseudo-Selectors/)
+- [CSS Animations (A 20-Minute Adventure)](CSS-Animations/)
+- [Before & After Pseudo Selectors (TP404 Video)](https://fb.watch/jLMJv41GQ9)
+- [CSS Animations (TP404 Video)](https://fb.watch/jLMMQrtj_B/)
 
 These videos will be helpful for your final projects.
 
@@ -77,12 +77,12 @@ We're looking forward to seeing your final projects. Good luck!👍
 
 ### Reference
 
-- [Pseudo Selectors | A 20-Minute Adventure](Pseudo-Selectors/)
-- [CSS Animations | A 20-Minute Adventure](CSS-Animations/)
-- [Before & After Pseudo Selectors | TP404 Video](https://fb.watch/jLMJv41GQ9)
-- [CSS Animations | TP404 Video](https://fb.watch/jLMMQrtj_B/)
-- [Remove Image Background](https://www.remove.bg/)
-- [CSS Animations | MDN ](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
-- [CSS Pseudo Elements | MDN ](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
-- [CSS Pseudo Classes | MDN ](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
-- [CSS Transition Timing Functions | W3Schools](https://www.w3schools.com/cssref/tryit.php?filename=trycss3_transition-timing-function2)
+- [Pseudo Selectors (A 20-Minute Adventure)](Pseudo-Selectors/)
+- [CSS Animations (A 20-Minute Adventure)](CSS-Animations/)
+- [Before & After Pseudo Selectors (TP404 Video)](https://fb.watch/jLMJv41GQ9)
+- [CSS Animations (TP404 Video)](https://fb.watch/jLMMQrtj_B/)
+- [Remove Image Background)](https://www.remove.bg/)
+- [CSS Animations (MDN )](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
+- [CSS Pseudo Elements (MDN )](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
+- [CSS Pseudo Classes (MDN )](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
+- [CSS Transition Timing Functions (W3Schools)](https://www.w3schools.com/cssref/tryit.php?filename=trycss3_transition-timing-function2)
