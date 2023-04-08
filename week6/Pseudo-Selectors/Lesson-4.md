@@ -63,3 +63,7 @@ Finally, let's use a media query to adjust the style of the navigation menu for 
 In this example, we've used a media query to apply different styles when the screen width is 600px or smaller. We've changed the layout of the navigation menu, adjusted the margin between the list items, and modified the hover color for the links.
 
 Congratulations! You've now learned how to combine pseudo selectors with media queries to create responsive designs that adapt to different devices and screen sizes. In the next and final lesson, we'll have a code-along activity where you'll apply what you've learned to create a stylish web page using various pseudo selectors. Get ready to put your new skills into practice!
+
+### Codes
+
+- [Lesson 4 Codes](Lesson-4-Examples.html)

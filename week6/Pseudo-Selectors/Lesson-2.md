@@ -42,3 +42,7 @@ ul li:first-child {
 In this example, the first list item (li) within an unordered list (ul) will have a bold font weight, making it stand out from the other items in the list.
 
 Great job! You've now learned about three powerful CSS pseudo selectors: `:hover`, `:visited`, and `:first-child`. In the next lesson, we'll explore more advanced pseudo selectors like `:nth-child`, `:before` & `:after`, and `:not`. Stay tuned!
+
+### Codes
+
+- [Lesson 2 Codes](Lesson-2-Examples.html)

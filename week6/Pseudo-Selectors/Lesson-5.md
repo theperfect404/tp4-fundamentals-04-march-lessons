@@ -118,3 +118,7 @@ In this example, we've applied various pseudo selectors:
 Congratulations! You've successfully completed the code-along activity and applied various pseudo selectors to style a web page. By now, you should have a good understanding of how to use pseudo selectors to create dynamic and engaging web designs.
 
 We hope you enjoyed this short course. Keep practicing and exploring the world of CSS, and soon you'll be able to create amazing web designs with ease. Good luck on your future projects!
+
+### Codes
+
+- [Lesson 5 Codes](Lesson-5-Practice-Project/index.html)

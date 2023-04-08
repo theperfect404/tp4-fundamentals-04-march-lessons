@@ -106,3 +106,7 @@ Now, let's add a pulsating animation to the content boxes.
 ```
 
 Great job! You've now created a simple web page layout and implemented animations and transitions to showcase their power. You've completed the "CSS Animations and Transitions: A 20-Minute Journey into the World of Web Motion" course. Congratulations, and keep experimenting with different animations and transitions to create more interactive and dynamic web experiences!
+
+### Codes
+
+- [Lesson 6 Codes](Lesson-6-Examples.html)

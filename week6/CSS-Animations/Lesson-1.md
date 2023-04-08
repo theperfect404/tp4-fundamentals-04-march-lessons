@@ -38,3 +38,7 @@ button:hover {
 In this example, we've added a transition property to the button element. The transition applies to the background-color, has a duration of 0.5 seconds, and uses the ease-in-out timing function for a smooth effect. When the user hovers over the button, the background color changes from blue to red.
 
 Congratulations! You now have a basic understanding of CSS transitions, their properties, and timing. In the next lesson, we'll delve deeper into transition properties and how to use them effectively. Keep up the great work!
+
+### Codes
+
+- [Lesson 1 Codes](Lesson-1-Examples.html)

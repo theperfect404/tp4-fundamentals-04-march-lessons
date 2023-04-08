@@ -50,3 +50,7 @@ In this lesson, we'll introduce you to CSS animations, discuss keyframes, and ex
 In this example, we've created a keyframes rule named "move" that defines the starting and ending positions of the box. We then apply the animation to the box element by specifying its name, duration, timing function, and iteration count.
 
 Congratulations! You now have a basic understanding of CSS animations, keyframes, and animation properties. In the next lesson, we'll explore each animation property in more detail. Keep up the great work!
+
+### Codes
+
+- [Lesson 3 Codes](Lesson-3-Examples.html)

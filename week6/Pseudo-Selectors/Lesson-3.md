@@ -44,3 +44,7 @@ input:not(.no-style) {
 In this example, all input elements without the "no-style" class will have a 2px solid blue border.
 
 Congratulations! You've now learned about more advanced CSS pseudo selectors: `:nth-child`, `:before`, `:after`, and `:not`. In the next lesson, we'll discuss how to use pseudo selectors for responsive design with media queries. Stay tuned!
+
+### Codes
+
+- [Lesson 3 Codes](Lesson-3-Examples.html)

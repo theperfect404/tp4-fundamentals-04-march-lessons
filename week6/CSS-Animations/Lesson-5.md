@@ -46,3 +46,7 @@ In this lesson, we'll discuss when to use animations vs. transitions and how to 
 In this example, we have a box with a pulsating animation applied to it, while also using a transition to change the background color on hover. The animation plays continuously, and the transition is triggered when the user hovers over the box.
 
 Congratulations! You now understand when to use animations vs. transitions and how to combine them for more dynamic and interactive effects. In the next and final lesson, we'll have a code-along activity where you'll create a simple web page layout and implement animations and transitions to showcase their power. Keep up the excellent work!
+
+### Codes
+
+- [Lesson 5 Codes](Lesson-5-Examples.html)

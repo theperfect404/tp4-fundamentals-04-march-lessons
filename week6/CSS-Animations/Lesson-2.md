@@ -52,3 +52,7 @@ In this lesson, we'll explore the various transition properties and provide a si
 In this example, we have a box that changes both its width and background-color on hover. The width transition has a duration of 1s and an ease-in timing function, while the background-color transition has a duration of 2s, a linear timing function, and a 1s delay.
 
 Great job! You've now explored the various transition properties and learned how to use them effectively. In the next lesson, we'll introduce you to CSS animations and keyframes. Keep up the excellent work!
+
+### Codes
+
+- [Lesson 2 Codes](Lesson-2-Examples.html)
