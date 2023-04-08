@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1:before,
+h1:after {
+  content: "✧";
+  margin: 0 5px;
+}
+
+p:first-line {
+  font-weight: bold;
+  color: blue;
+}
+
+a:hover {
+  color: darkblue;
+}
+
+a:visited {
+  color: gray;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul li:first-child {
+  font-weight: bold;
+}
+
+ul li:nth-child(2n) {
+  background-color: lightblue;
+}
+
+button {
+  background-color: cornflowerblue;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: darkblue;
+}
