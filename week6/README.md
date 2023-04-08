@@ -14,9 +14,9 @@ These videos will be helpful for your final projects.
 
 ### Final Projects
 
-- 01 Newsletter - https://kaiz.me/html-css-projects/newsletter
-- 02 Navbar Animation - https://kaiz.me/html-css-projects/navbar-animation
-- 03 Portfolio - https://kaiz.me/html-css-projects/portfolio
+- [01 Newsletter](https://kaiz.me/html-css-projects/Newsletter)
+- [02 Navbar Animation](https://kaiz.me/html-css-projects/Animation)
+- [03 Portfolio](https://kaiz.me/html-css-projects/Portfolio)
 
 ### Newsletter
 
