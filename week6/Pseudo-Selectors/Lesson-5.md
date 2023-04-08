@@ -20,16 +20,32 @@ In this code-along activity, we'll create a simple web page layout with various 
     <h2>Chapter List</h2>
     <ul>
       <li>
-        <a href="#" target="_blank">Introduction</a>
+        <a
+          href="https://theperfect404.github.io/tp4-fundamentals-04-march-lessons/week6/Pseudo-Selectors/Lesson-1.html"
+          target="_blank"
+          >Introduction</a
+        >
       </li>
       <li>
-        <a href="#" target="_blank">The First Three Selectors</a>
+        <a
+          href="https://theperfect404.github.io/tp4-fundamentals-04-march-lessons/week6/Pseudo-Selectors/Lesson-2.html"
+          target="_blank"
+          >The First Three Selectors</a
+        >
       </li>
       <li>
-        <a href="#" target="_blank">Advanced Pseudo Selectors</a>
+        <a
+          href="https://theperfect404.github.io/tp4-fundamentals-04-march-lessons/week6/Pseudo-Selectors/Lesson-3.html"
+          target="_blank"
+          >Advanced Pseudo Selectors</a
+        >
       </li>
       <li>
-        <a href="#" target="_blank">Responsive Design with Pseudo Selectors</a>
+        <a
+          href="https://theperfect404.github.io/tp4-fundamentals-04-march-lessons/week6/Pseudo-Selectors/Lesson-4.html"
+          target="_blank"
+          >Responsive Design with Pseudo Selectors</a
+        >
       </li>
     </ul>
 
